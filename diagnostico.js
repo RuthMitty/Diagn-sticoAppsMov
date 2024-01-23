@@ -47,3 +47,10 @@ generateGreeting(nombre);
 // EJERCICIO 10. Crea un objeto con las características de lo que decidas. Por ejemplo, un perro tiene raza, edad, peso, tamaño, etc.
 
 // La verdad no me acuerdo XD
+let paciente1 = {
+    edad: 50,
+    enfermedad: 'Gripe',
+    doctor: 'Antonio Jimenez'
+}
+
+console.log({paciente1});
